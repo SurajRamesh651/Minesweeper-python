@@ -1,4 +1,3 @@
-# Minesweeper-python
 import random
 
 
